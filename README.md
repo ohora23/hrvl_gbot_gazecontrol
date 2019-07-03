@@ -18,7 +18,7 @@
   - Generate gaze directions
 
 ![image](https://user-images.githubusercontent.com/29231446/60608404-5bdb6300-9dfa-11e9-9a3d-d8fd6ff65722.png)
-
+![image](https://user-images.githubusercontent.com/29231446/60608483-89c0a780-9dfa-11e9-8f56-31d8bde8b3dc.png)
 # Maintainer
 - Prof. Jeong-Ki Yoo (HRVL @ Daejeon University)
 - https://sites.google.com/view/hrvl
