@@ -1,4 +1,4 @@
-# hrvl_gbot_gazecontrol
+# HRVL_GBOT GazeControl
 - GazeControl package for HRVL GBot
 
 # Requirements
@@ -17,6 +17,7 @@
   - Detects moving objects during gaze_transition process
   - Generate gaze directions
 
+![image](https://user-images.githubusercontent.com/29231446/60608404-5bdb6300-9dfa-11e9-9a3d-d8fd6ff65722.png)
 
 # Maintainer
 - Prof. Jeong-Ki Yoo (HRVL @ Daejeon University)
